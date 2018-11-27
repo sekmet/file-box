@@ -52,7 +52,7 @@
     "typescript": "^3.0.1"
   },
   "dependencies": {
-    "mime": "^2.3.1"
+    "mime": "^2.4.0"
   },
   "git": {
     "scripts": {
